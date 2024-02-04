@@ -1,0 +1,13 @@
+{
+  "tasks": {
+    "dev": "deno run -A --watch main/bot.ts"
+  },
+  "fmt": {
+    "semiColons": true,
+    "singleQuote": true,
+    "indentWidth": 3
+  },
+  "imports": {
+    "deno": "https://deno.land/x/grammy@v1.20.3/mod.ts"
+  }  
+}
