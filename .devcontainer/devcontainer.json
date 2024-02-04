@@ -1,5 +1,6 @@
 {
 	"image": "denoland/deno:debian",
+	"features": { "ghcr.io/devcontainers/features/github-cli": {} },
 	"extensions": [
 		"denoland.vscode-deno"
 	]
